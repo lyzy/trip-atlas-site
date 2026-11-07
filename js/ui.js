@@ -393,10 +393,10 @@ function restaurantCard(restaurant) {
     .filter(Boolean)
     .join(' · ');
   const price = restaurant.price_level
-    ? '$'.repeat(Math.max(1, Math.min(4, restaurant.price_level)))
+    ? '$'.repeat(Math.max(1, Math.min(5, restaurant.price_level)))
     : '';
   const details = [restaurant.cuisine, restaurant.meal, price].filter(Boolean);
-  const rating = restaurant.rating ? `${restaurant.rating}/5` : '';
+  const rating = restaurant.rating ? `${restaurant.rating}/3` : '';
   const notes = restaurant.notes_html || (restaurant.notes ? escapeHtml(restaurant.notes) : '');
   return `
     <div class="food-card">
@@ -545,30 +545,64 @@ function renderTripDetail(trip) {
     </div>
     <div class="detail-actions">${copyLinkButton()}</div>
     ${
-      transfers
-        ? `<div class="section"><h3>Transfers</h3><div class="day-card">${transfers}</div></div>`
+      (trip.restaurants || []).length
+        ? `<div class="detail-tabs" role="tablist" aria-label="Trip sections">
+            <button type="button" class="detail-tab active" role="tab" aria-selected="true" aria-controls="trip-panel-places" data-trip-tab="places">Places <span class="zh">景点</span></button>
+            <button type="button" class="detail-tab" role="tab" aria-selected="false" aria-controls="trip-panel-food" data-trip-tab="food">Food <span class="zh">餐厅</span><span class="tab-count">${trip.restaurants.length}</span></button>
+          </div>`
         : ''
     }
-    ${(trip.places_count || 0) > 0 && days ? `<div class="section"><h3>Days</h3>${days}</div>` : ''}
-    ${
-      pool
-        ? `<details class="pool-section"><summary>${(trip.pool || []).length} place${
-            (trip.pool || []).length === 1 ? '' : 's'
-          } not yet assigned to a day</summary>${pool}</details>`
-        : ''
-    }
+    <div class="detail-tab-panel" id="trip-panel-places" data-trip-section="places" role="tabpanel">
+      ${
+        transfers
+          ? `<div class="section"><h3>Transfers</h3><div class="day-card">${transfers}</div></div>`
+          : ''
+      }
+      ${(trip.places_count || 0) > 0 && days ? `<div class="section"><h3>Days</h3>${days}</div>` : ''}
+      ${
+        pool
+          ? `<details class="pool-section"><summary>${(trip.pool || []).length} place${
+              (trip.pool || []).length === 1 ? '' : 's'
+            } not yet assigned to a day</summary>${pool}</details>`
+          : ''
+      }
+      ${
+        trip.story
+          ? `<div class="section"><h3>Story</h3><div class="notes prose">${
+              trip.story_html || escapeHtml(trip.story)
+            }</div></div>`
+          : ''
+      }
+    </div>
     ${
       (trip.restaurants || []).length
-        ? `<div class="section"><h3>Food <span class="zh">餐厅</span></h3><div class="food-list">${trip.restaurants
-            .map((restaurant) => restaurantCard(restaurant))
-            .join('')}</div></div>`
-        : ''
-    }
-    ${
-      trip.story
-        ? `<div class="section"><h3>Story</h3><div class="notes prose">${
-            trip.story_html || escapeHtml(trip.story)
-          }</div></div>`
+        ? `<div class="detail-tab-panel" id="trip-panel-food" data-trip-section="food" role="tabpanel" hidden>
+            <div class="section">
+              <h3>Food <span class="zh">餐厅</span></h3>
+              <details class="food-legend">
+                <summary>Rating &amp; price guide</summary>
+                <div class="food-legend-body">
+                  <p><strong>Rating 1–3</strong></p>
+                  <ul>
+                    <li><strong>1</strong> — above average or a local specialty, but not worth a return trip</li>
+                    <li><strong>2</strong> — special enough to try on a first visit</li>
+                    <li><strong>3</strong> — worth returning for, or memorable fine dining</li>
+                  </ul>
+                  <p><strong>Price 1–5</strong></p>
+                  <ul>
+                    <li><strong>1</strong> — under 20 RMB</li>
+                    <li><strong>2</strong> — daily meal, under 50 RMB</li>
+                    <li><strong>3</strong> — around 100 RMB</li>
+                    <li><strong>4</strong> — around 200 RMB / common European level</li>
+                    <li><strong>5</strong> — fine dining or a cuisine performance</li>
+                  </ul>
+                </div>
+              </details>
+              <div class="food-list">${trip.restaurants
+                .map((restaurant) => restaurantCard(restaurant))
+                .join('')}</div>
+            </div>
+          </div>`
         : ''
     }
     <div class="route-note">Routes are schematic: flight legs use great-circle arcs; city transfers connect cities. Local stop order is shown in the day list. Dashed lines mean the order is likely or uncertain.</div>`;

@@ -823,6 +823,88 @@ a {
   margin-top: 3px;
 }
 
+.detail-tabs {
+  display: flex;
+  gap: 2px;
+  margin-top: 16px;
+  padding: 2px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel-2);
+}
+
+.detail-tab {
+  flex: 1;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 11px;
+  padding: 6px 8px;
+}
+
+.detail-tab:hover {
+  color: var(--text);
+}
+
+.detail-tab.active {
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.detail-tab .zh {
+  color: inherit;
+  font-size: 10px;
+  margin-left: 3px;
+}
+
+.tab-count {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-size: 9px;
+  margin-left: 5px;
+  padding: 1px 5px;
+}
+
+.detail-tab-panel[hidden] {
+  display: none;
+}
+
+.food-legend {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  margin-bottom: 10px;
+  padding: 7px 9px;
+}
+
+.food-legend summary {
+  color: var(--accent);
+  cursor: pointer;
+  font-size: 10px;
+}
+
+.food-legend-body {
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.6;
+  margin-top: 7px;
+}
+
+.food-legend-body p {
+  margin: 6px 0 2px;
+}
+
+.food-legend-body ul {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.food-legend-body strong {
+  color: var(--text);
+}
+
 .section {
   margin: 20px 0 0;
 }

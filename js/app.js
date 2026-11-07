@@ -742,6 +742,19 @@ function bindEvents() {
   });
 
   els.detailContent.addEventListener('click', (event) => {
+    const tripTab = event.target.closest('[data-trip-tab]');
+    if (tripTab) {
+      const selected = tripTab.dataset.tripTab;
+      for (const button of els.detailContent.querySelectorAll('[data-trip-tab]')) {
+        const active = button.dataset.tripTab === selected;
+        button.classList.toggle('active', active);
+        button.setAttribute('aria-selected', String(active));
+      }
+      for (const panel of els.detailContent.querySelectorAll('[data-trip-section]')) {
+        panel.hidden = panel.dataset.tripSection !== selected;
+      }
+      return;
+    }
     const copyButton = event.target.closest('[data-copy-link]');
     if (copyButton) {
       event.preventDefault();
