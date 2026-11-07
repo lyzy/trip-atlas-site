@@ -7855,7 +7855,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1chrgnq",
+      "id": "2026-09-uzbekistan:p-1chrgnq",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -7864,7 +7864,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1chrgnq",
+        "id": "2026-09-uzbekistan:p-1chrgnq",
         "name": "Archaeological Museum",
         "name_zh": "",
         "coords": [
@@ -7892,7 +7892,7 @@
         "intro_html": "<p>A regional museum in Termez presenting finds from the area’s Buddhist, Hellenistic, and Islamic past.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "archaeological museum termez termez saved uzbekistan 2026 乌兹别克斯坦 2026",
@@ -7904,7 +7904,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1fnc0wm",
+      "id": "2026-09-uzbekistan:p-1fnc0wm",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -7913,7 +7913,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1fnc0wm",
+        "id": "2026-09-uzbekistan:p-1fnc0wm",
         "name": "Buddhist Stupa of Zurmala",
         "name_zh": "祖尔马拉佛塔",
         "coords": [
@@ -7941,7 +7941,7 @@
         "intro_html": "<p>A large Kushan-era brick stupa, one of the surviving Buddhist monuments near Termez.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "buddhist stupa of zurmala 祖尔马拉佛塔 termez termez tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -7953,7 +7953,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1nf4p15",
+      "id": "2026-09-uzbekistan:p-1nf4p15",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -7962,7 +7962,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1nf4p15",
+        "id": "2026-09-uzbekistan:p-1nf4p15",
         "name": "Fayaztepe",
         "name_zh": "法亚兹特佩",
         "coords": [
@@ -7990,7 +7990,7 @@
         "intro_html": "<p>A Buddhist monastery and stupa complex near Termez, one of the region’s important Silk Road archaeological sites.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "fayaztepe 法亚兹特佩 termez termez tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8002,7 +8002,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1fsuovd",
+      "id": "2026-09-uzbekistan:p-1fsuovd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8011,7 +8011,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1fsuovd",
+        "id": "2026-09-uzbekistan:p-1fsuovd",
         "name": "Hakim at-Termizi Mausoleum",
         "name_zh": "哈基姆提尔米兹陵墓",
         "coords": [
@@ -8039,7 +8039,7 @@
         "intro_html": "<p>The mausoleum of the early Sufi scholar Hakim at-Termizi, a major pilgrimage site in Termez.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "hakim at-termizi mausoleum 哈基姆提尔米兹陵墓 termez termez tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8051,7 +8051,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-19ubwsz",
+      "id": "2026-09-uzbekistan:p-19ubwsz",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8060,7 +8060,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-19ubwsz",
+        "id": "2026-09-uzbekistan:p-19ubwsz",
         "name": "Kampir Hill monument",
         "name_zh": "坎皮尔丘古迹",
         "coords": [
@@ -8088,7 +8088,7 @@
         "intro_html": "<p>An archaeological mound near Termez with occupation layers from ancient Bactria.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "kampir hill monument 坎皮尔丘古迹 termez termez tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8100,7 +8100,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1lv1q78",
+      "id": "2026-09-uzbekistan:p-1lv1q78",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8109,7 +8109,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1lv1q78",
+        "id": "2026-09-uzbekistan:p-1lv1q78",
         "name": "Kara Tepе",
         "name_zh": "",
         "coords": [
@@ -8137,7 +8137,7 @@
         "intro_html": "<p>An archaeological hill site near Termez with the remains of a Buddhist monastery.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "kara tepе termez termez saved uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8149,7 +8149,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-5kvsbd",
+      "id": "2026-09-uzbekistan:p-5kvsbd",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8158,7 +8158,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-5kvsbd",
+        "id": "2026-09-uzbekistan:p-5kvsbd",
         "name": "Kokildor-Ota Khanaka",
         "name_zh": "科基尔多尔-奥塔哈纳卡",
         "coords": [
@@ -8186,7 +8186,7 @@
         "intro_html": "<p>A small Sufi khanaka and mosque complex in Termez, associated with the Kokildor-Ota shrine.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "kokildor-ota khanaka 科基尔多尔-奥塔哈纳卡 termez termez tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8198,7 +8198,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-xztng4",
+      "id": "2026-09-uzbekistan:p-xztng4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8207,7 +8207,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-xztng4",
+        "id": "2026-09-uzbekistan:p-xztng4",
         "name": "Sultan Saodat Mausoleum",
         "name_zh": "苏丹萨奥达特陵墓群",
         "coords": [
@@ -8235,7 +8235,7 @@
         "intro_html": "<p>A large mausoleum complex for the Sayyid rulers of Termez, expanded between the 11th and 17th centuries.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "sultan saodat mausoleum 苏丹萨奥达特陵墓群 termez termez tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8247,7 +8247,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-xy7ml8",
+      "id": "2026-09-uzbekistan:p-xy7ml8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8256,7 +8256,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-xy7ml8",
+        "id": "2026-09-uzbekistan:p-xy7ml8",
         "name": "Dahmai Shohon maqbarasi",
         "name_zh": "诺迪拉石碑",
         "coords": [
@@ -8284,7 +8284,7 @@
         "intro_html": "<p>A royal cemetery and memorial complex in Kokand associated with the region’s rulers and poets.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "dahmai shohon maqbarasi 诺迪拉石碑 kokand kokand saved uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8296,7 +8296,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-tpd4xs",
+      "id": "2026-09-uzbekistan:p-tpd4xs",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8305,7 +8305,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-tpd4xs",
+        "id": "2026-09-uzbekistan:p-tpd4xs",
         "name": "Jome Mosque",
         "name_zh": "聚礼清真寺",
         "coords": [
@@ -8333,7 +8333,7 @@
         "intro_html": "<p>Kokand’s main Friday mosque, part of the historic core near the palace.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "jome mosque 聚礼清真寺 kokand kokand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8345,7 +8345,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-torv0j",
+      "id": "2026-09-uzbekistan:p-torv0j",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8354,7 +8354,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-torv0j",
+        "id": "2026-09-uzbekistan:p-torv0j",
         "name": "Modari Khan Mausoleum",
         "name_zh": "莫达里汗陵墓",
         "coords": [
@@ -8382,7 +8382,7 @@
         "intro_html": "<p>A 19th-century mausoleum in Kokand built for the mother of Umar Khan.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "modari khan mausoleum 莫达里汗陵墓 kokand kokand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8394,7 +8394,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-5ilvom",
+      "id": "2026-09-uzbekistan:p-5ilvom",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8403,7 +8403,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-5ilvom",
+        "id": "2026-09-uzbekistan:p-5ilvom",
         "name": "Norbutabiy Mosque",
         "name_zh": "诺尔布塔比清真寺",
         "coords": [
@@ -8431,7 +8431,7 @@
         "intro_html": "<p>A 19th-century mosque in Kokand with a tall minaret and carved wooden details.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "norbutabiy mosque 诺尔布塔比清真寺 kokand kokand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8443,7 +8443,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1v8o1p0",
+      "id": "2026-09-uzbekistan:p-1v8o1p0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8452,7 +8452,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1v8o1p0",
+        "id": "2026-09-uzbekistan:p-1v8o1p0",
         "name": "Palace of Khudáyár Khán",
         "name_zh": "胡达亚尔汗宫",
         "coords": [
@@ -8480,7 +8480,7 @@
         "intro_html": "<p>The 19th-century palace of Kokand’s last ruler, known for its carved wood and colourful tilework.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "palace of khudáyár khán 胡达亚尔汗宫 kokand kokand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8492,7 +8492,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-12zgcjr",
+      "id": "2026-09-uzbekistan:p-12zgcjr",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8501,7 +8501,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-12zgcjr",
+        "id": "2026-09-uzbekistan:p-12zgcjr",
         "name": "Yodgorlik Silk Factory",
         "name_zh": "约德戈尔利克丝绸工厂",
         "coords": [
@@ -8529,7 +8529,7 @@
         "intro_html": "<p>A working silk workshop in Margilan known for traditional ikat and hand-loomed fabrics.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "yodgorlik silk factory 约德戈尔利克丝绸工厂 margilan fergana tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8541,7 +8541,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1ouda5e",
+      "id": "2026-09-uzbekistan:p-1ouda5e",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8550,7 +8550,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1ouda5e",
+        "id": "2026-09-uzbekistan:p-1ouda5e",
         "name": "Devonaboy Masjid",
         "name_zh": "德沃纳博伊清真寺",
         "coords": [
@@ -8578,7 +8578,7 @@
         "intro_html": "<p>A historic mosque in Andijan, rebuilt in the late 19th century and known for its carved columns.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "devonaboy masjid 德沃纳博伊清真寺 andijan andijan tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8590,7 +8590,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-rbyhjv",
+      "id": "2026-09-uzbekistan:p-rbyhjv",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8599,7 +8599,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-rbyhjv",
+        "id": "2026-09-uzbekistan:p-rbyhjv",
         "name": "Farg‘ona viloyati o‘lkashunoslik muzeyi",
         "name_zh": "",
         "coords": [
@@ -8627,7 +8627,7 @@
         "intro_html": "<p>The Fergana regional history museum, covering the valley’s archaeology, crafts, and decorative arts.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "farg‘ona viloyati o‘lkashunoslik muzeyi fergana andijan saved uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8639,7 +8639,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1qdr2bw",
+      "id": "2026-09-uzbekistan:p-1qdr2bw",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8648,7 +8648,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1qdr2bw",
+        "id": "2026-09-uzbekistan:p-1qdr2bw",
         "name": "Jami medresse",
         "name_zh": "",
         "coords": [
@@ -8676,7 +8676,7 @@
         "intro_html": "<p>A madrasa complex in Andijan, part of the city’s historic religious architecture.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "jami medresse andijan andijan saved uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8688,7 +8688,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1r206w6",
+      "id": "2026-09-uzbekistan:p-1r206w6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8697,7 +8697,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1r206w6",
+        "id": "2026-09-uzbekistan:p-1r206w6",
         "name": "Jiddayi Muborak",
         "name_zh": "",
         "coords": [
@@ -8725,7 +8725,7 @@
         "intro_html": "<p>A historic mosque and shrine complex in Andijan.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "jiddayi muborak andijan andijan saved uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8737,7 +8737,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-xqiycm",
+      "id": "2026-09-uzbekistan:p-xqiycm",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8746,7 +8746,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-xqiycm",
+        "id": "2026-09-uzbekistan:p-xqiycm",
         "name": "Chorsu Bozor",
         "name_zh": "琼苏市场",
         "coords": [
@@ -8774,7 +8774,7 @@
         "intro_html": "<p>Tashkent’s large domed bazaar, known for spices, produce, and everyday local trade.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "chorsu bozor 琼苏市场 tashkent tashkent tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8786,7 +8786,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1p47ts8",
+      "id": "2026-09-uzbekistan:p-1p47ts8",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8795,7 +8795,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1p47ts8",
+        "id": "2026-09-uzbekistan:p-1p47ts8",
         "name": "Hazrati Imam Mosque",
         "name_zh": "哈兹拉提伊玛目清真寺",
         "coords": [
@@ -8823,7 +8823,7 @@
         "intro_html": "<p>A major mosque in Tashkent’s old religious quarter, within the Khast Imam complex.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "hazrati imam mosque 哈兹拉提伊玛目清真寺 tashkent tashkent tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8835,7 +8835,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-4vu9w1",
+      "id": "2026-09-uzbekistan:p-4vu9w1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8844,7 +8844,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-4vu9w1",
+        "id": "2026-09-uzbekistan:p-4vu9w1",
         "name": "Islamic Civilization Center",
         "name_zh": "伊斯兰文明中心",
         "coords": [
@@ -8872,7 +8872,7 @@
         "intro_html": "<p>A modern cultural centre in Tashkent with a museum, library, and exhibits on Islamic civilisation.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "islamic civilization center 伊斯兰文明中心 tashkent tashkent tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8884,7 +8884,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-mecrti",
+      "id": "2026-09-uzbekistan:p-mecrti",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8893,7 +8893,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-mecrti",
+        "id": "2026-09-uzbekistan:p-mecrti",
         "name": "Kosmonavtlar",
         "name_zh": "宇航员地铁站",
         "coords": [
@@ -8921,7 +8921,7 @@
         "intro_html": "<p>A Tashkent metro station decorated with cosmonaut-themed ceramics and mosaics.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "kosmonavtlar 宇航员地铁站 tashkent tashkent tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8933,7 +8933,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1euq6rx",
+      "id": "2026-09-uzbekistan:p-1euq6rx",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8942,7 +8942,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1euq6rx",
+        "id": "2026-09-uzbekistan:p-1euq6rx",
         "name": "State Museum of the Temurids",
         "name_zh": "帖木儿王朝国家博物馆",
         "coords": [
@@ -8970,7 +8970,7 @@
         "intro_html": "<p>A Tashkent museum devoted to Timurid history, art, and the dynasty’s cultural legacy.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "state museum of the temurids 帖木儿王朝国家博物馆 tashkent tashkent tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -8982,7 +8982,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1na86e2",
+      "id": "2026-09-uzbekistan:p-1na86e2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8991,7 +8991,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1na86e2",
+        "id": "2026-09-uzbekistan:p-1na86e2",
         "name": "Tillya Sheikh Mosque",
         "name_zh": "提拉谢赫清真寺",
         "coords": [
@@ -9019,7 +9019,7 @@
         "intro_html": "<p>A 19th-century mosque in the Khast Imam complex, home to a celebrated Quran manuscript.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "tillya sheikh mosque 提拉谢赫清真寺 tashkent tashkent tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9031,7 +9031,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-15avilq",
+      "id": "2026-09-uzbekistan:p-15avilq",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9040,7 +9040,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-15avilq",
+        "id": "2026-09-uzbekistan:p-15avilq",
         "name": "Ishratxona Mausoleum",
         "name_zh": "伊什拉特哈纳陵墓",
         "coords": [
@@ -9068,7 +9068,7 @@
         "intro_html": "<p>A 15th-century mausoleum in Samarkand, known for its surviving interior decoration.</p>\n",
         "notes": "World Heritage (also the mosque across the street). \nAn architecture with time damage. From it we can see how the decorative ceramics were attached to the walls outside. \n",
         "notes_html": "<p>World Heritage (also the mosque across the street).<br />An architecture with time damage. From it we can see how the decorative ceramics were attached to the walls outside. </p>\n",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "ishratxona mausoleum 伊什拉特哈纳陵墓 samarkand samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9080,7 +9080,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1edxho5",
+      "id": "2026-09-uzbekistan:p-1edxho5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9089,7 +9089,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1edxho5",
+        "id": "2026-09-uzbekistan:p-1edxho5",
         "name": "Memorial Complex of Imam Al Bukhari",
         "name_zh": "伊玛目布哈里纪念建筑群",
         "coords": [
@@ -9117,7 +9117,7 @@
         "intro_html": "<p>A memorial complex near Samarkand honouring the hadith scholar Imam al-Bukhari.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "memorial complex of imam al bukhari 伊玛目布哈里纪念建筑群 samarkand samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9129,7 +9129,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-pr1fy9",
+      "id": "2026-09-uzbekistan:p-pr1fy9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9138,7 +9138,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-pr1fy9",
+        "id": "2026-09-uzbekistan:p-pr1fy9",
         "name": "Registan",
         "name_zh": "雷吉斯坦广场",
         "coords": [
@@ -9166,7 +9166,7 @@
         "intro_html": "<p>Samarkand’s ceremonial square, framed by three monumental madrasas and one of Central Asia’s defining ensembles.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "registan 雷吉斯坦广场 samarkand samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9178,7 +9178,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1hn5vwg",
+      "id": "2026-09-uzbekistan:p-1hn5vwg",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9187,7 +9187,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1hn5vwg",
+        "id": "2026-09-uzbekistan:p-1hn5vwg",
         "name": "Afrasiyab Museum",
         "name_zh": "阿夫拉西阿卜博物馆",
         "coords": [
@@ -9215,7 +9215,7 @@
         "intro_html": "<p>A museum beside the Afrasiyab site, known for its surviving 7th-century mural.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "afrasiyab museum 阿夫拉西阿卜博物馆 samarkand samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9227,7 +9227,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1krlnx3",
+      "id": "2026-09-uzbekistan:p-1krlnx3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9236,7 +9236,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1krlnx3",
+        "id": "2026-09-uzbekistan:p-1krlnx3",
         "name": "Aksaray Mausoleum",
         "name_zh": "阿克萨赖陵墓",
         "coords": [
@@ -9264,7 +9264,7 @@
         "intro_html": "<p>A Timurid-era mausoleum in Samarkand, part of the wider Shah-i-Zinda area.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "aksaray mausoleum 阿克萨赖陵墓 samarkand samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9276,7 +9276,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-n1n5gs",
+      "id": "2026-09-uzbekistan:p-n1n5gs",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9285,7 +9285,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-n1n5gs",
+        "id": "2026-09-uzbekistan:p-n1n5gs",
         "name": "Ancient Afrasiyab / Maracanda",
         "name_zh": "阿夫拉西阿卜古城遗址",
         "coords": [
@@ -9313,7 +9313,7 @@
         "intro_html": "<p>The archaeological site of ancient Samarkand, occupied long before the Mongol conquest.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "ancient afrasiyab / maracanda 阿夫拉西阿卜古城遗址 samarkand samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9325,7 +9325,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-i39yps",
+      "id": "2026-09-uzbekistan:p-i39yps",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9334,7 +9334,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-i39yps",
+        "id": "2026-09-uzbekistan:p-i39yps",
         "name": "Bibi-Khanym Mosque",
         "name_zh": "比比·哈内姆清真寺",
         "coords": [
@@ -9362,7 +9362,7 @@
         "intro_html": "<p>A vast 14th-century mosque commissioned by Timur, once among the largest in the Islamic world.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "bibi-khanym mosque 比比·哈内姆清真寺 samarkand samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9374,7 +9374,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1fw0mee",
+      "id": "2026-09-uzbekistan:p-1fw0mee",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9383,7 +9383,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1fw0mee",
+        "id": "2026-09-uzbekistan:p-1fw0mee",
         "name": "Gur-e-Amir",
         "name_zh": "古尔-埃米尔陵",
         "coords": [
@@ -9411,7 +9411,7 @@
         "intro_html": "<p>The mausoleum of Timur and several Timurid princes, crowned by a ribbed blue dome.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "gur-e-amir 古尔-埃米尔陵 samarkand samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9423,7 +9423,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1e9i9jz",
+      "id": "2026-09-uzbekistan:p-1e9i9jz",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9432,7 +9432,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1e9i9jz",
+        "id": "2026-09-uzbekistan:p-1e9i9jz",
         "name": "Hazrat Khizr Mosque",
         "name_zh": "哈兹拉特希兹尔清真寺",
         "coords": [
@@ -9460,7 +9460,7 @@
         "intro_html": "<p>A hilltop mosque in Samarkand with views over the city and the Afrasiyab site.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "hazrat khizr mosque 哈兹拉特希兹尔清真寺 samarkand samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9472,7 +9472,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1sllqtx",
+      "id": "2026-09-uzbekistan:p-1sllqtx",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9481,7 +9481,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1sllqtx",
+        "id": "2026-09-uzbekistan:p-1sllqtx",
         "name": "Rukhobod Mausoleum",
         "name_zh": "鲁哈巴德陵墓",
         "coords": [
@@ -9509,7 +9509,7 @@
         "intro_html": "<p>A small Samarkand mausoleum associated with a 14th-century Sufi saint.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "rukhobod mausoleum 鲁哈巴德陵墓 samarkand samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9521,7 +9521,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-5ofaj7",
+      "id": "2026-09-uzbekistan:p-5ofaj7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9530,7 +9530,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-5ofaj7",
+        "id": "2026-09-uzbekistan:p-5ofaj7",
         "name": "Shah-i-Zinda",
         "name_zh": "夏伊·辛达陵墓群",
         "coords": [
@@ -9558,7 +9558,7 @@
         "intro_html": "<p>A long avenue of decorated mausoleums, one of Samarkand’s most important pilgrimage sites.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "shah-i-zinda 夏伊·辛达陵墓群 samarkand samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9570,7 +9570,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-16r66h",
+      "id": "2026-09-uzbekistan:p-16r66h",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9579,7 +9579,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-16r66h",
+        "id": "2026-09-uzbekistan:p-16r66h",
         "name": "Ak-Saray Palace",
         "name_zh": "阿克萨赖宫",
         "coords": [
@@ -9607,7 +9607,7 @@
         "intro_html": "<p>The ruined palace of Timur in Shahrisabz, originally built on a monumental scale.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "ak-saray palace 阿克萨赖宫 shahrisabz samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9619,7 +9619,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-13fdy6x",
+      "id": "2026-09-uzbekistan:p-13fdy6x",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9628,7 +9628,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-13fdy6x",
+        "id": "2026-09-uzbekistan:p-13fdy6x",
         "name": "Amir Temur Crypt",
         "name_zh": "帖木儿地宫",
         "coords": [
@@ -9656,7 +9656,7 @@
         "intro_html": "<p>The underground burial chamber of Timur’s tomb complex in Shahrisabz.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "amir temur crypt 帖木儿地宫 shahrisabz samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9668,7 +9668,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1hnizf4",
+      "id": "2026-09-uzbekistan:p-1hnizf4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9677,7 +9677,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1hnizf4",
+        "id": "2026-09-uzbekistan:p-1hnizf4",
         "name": "Amir Temur xiyoboni",
         "name_zh": "帖木儿广场",
         "coords": [
@@ -9705,7 +9705,7 @@
         "intro_html": "<p>A central square in Shahrisabz centred on a statue of Timur.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "amir temur xiyoboni 帖木儿广场 shahrisabz samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9717,7 +9717,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-2040a5",
+      "id": "2026-09-uzbekistan:p-2040a5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9726,7 +9726,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-2040a5",
+        "id": "2026-09-uzbekistan:p-2040a5",
         "name": "Dor Us-Siyodat Mausoleum",
         "name_zh": "多尔乌斯-西亚达特陵墓群",
         "coords": [
@@ -9754,7 +9754,7 @@
         "intro_html": "<p>A Timurid mausoleum complex in Shahrisabz associated with the ruling family.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "dor us-siyodat mausoleum 多尔乌斯-西亚达特陵墓群 shahrisabz samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9766,7 +9766,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1clvlkk",
+      "id": "2026-09-uzbekistan:p-1clvlkk",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9775,7 +9775,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1clvlkk",
+        "id": "2026-09-uzbekistan:p-1clvlkk",
         "name": "Historic Centre of Shakhrisyabz",
         "name_zh": "沙赫里萨布兹历史中心",
         "coords": [
@@ -9803,7 +9803,7 @@
         "intro_html": "<p>The historic core of Shahrisabz, closely linked to the Timurid dynasty and listed by UNESCO.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "historic centre of shakhrisyabz 沙赫里萨布兹历史中心 shahrisabz samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9815,7 +9815,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-atrwr2",
+      "id": "2026-09-uzbekistan:p-atrwr2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9824,7 +9824,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-atrwr2",
+        "id": "2026-09-uzbekistan:p-atrwr2",
         "name": "Kok Gumbaz Mosque",
         "name_zh": "科克贡巴兹清真寺",
         "coords": [
@@ -9852,7 +9852,7 @@
         "intro_html": "<p>A 15th-century mosque in Shahrisabz with a prominent blue dome.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "kok gumbaz mosque 科克贡巴兹清真寺 shahrisabz samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9864,7 +9864,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-wh22hh",
+      "id": "2026-09-uzbekistan:p-wh22hh",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9873,7 +9873,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-wh22hh",
+        "id": "2026-09-uzbekistan:p-wh22hh",
         "name": "Observatory of Ulugbek",
         "name_zh": "兀鲁伯天文台",
         "coords": [
@@ -9901,7 +9901,7 @@
         "intro_html": "<p>The remains of Ulugbek’s 15th-century observatory, once home to a huge meridian arc.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "observatory of ulugbek 兀鲁伯天文台 samarkand samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9913,7 +9913,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-ovcpvz",
+      "id": "2026-09-uzbekistan:p-ovcpvz",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9922,7 +9922,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-ovcpvz",
+        "id": "2026-09-uzbekistan:p-ovcpvz",
         "name": "Prophet Daniel Mausoleum",
         "name_zh": "先知但以理陵墓",
         "coords": [
@@ -9950,7 +9950,7 @@
         "intro_html": "<p>A pilgrimage site in Samarkand traditionally associated with the biblical prophet Daniel.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "prophet daniel mausoleum 先知但以理陵墓 samarkand samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -9962,7 +9962,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-12mzzvu",
+      "id": "2026-09-uzbekistan:p-12mzzvu",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9971,7 +9971,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-12mzzvu",
+        "id": "2026-09-uzbekistan:p-12mzzvu",
         "name": "Shahrisabz Museum of History and Material Culture",
         "name_zh": "沙赫里萨布兹历史与物质文化博物馆",
         "coords": [
@@ -9999,7 +9999,7 @@
         "intro_html": "<p>A local museum covering the history and material culture of the Shahrisabz region.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "shahrisabz museum of history and material culture 沙赫里萨布兹历史与物质文化博物馆 shahrisabz samarkand tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -10011,7 +10011,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1eflfzj",
+      "id": "2026-09-uzbekistan:p-1eflfzj",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10020,7 +10020,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1eflfzj",
+        "id": "2026-09-uzbekistan:p-1eflfzj",
         "name": "BUXORO YAHUDIYLAR QADIMIY UYI XVII-XVIII/БУХАРСКИЙ ЕВРЕЙСКИЙ СТАРИННЫЙ ДОМ/BUKHARA JEWISH OLD HOUSE",
         "name_zh": "",
         "coords": [
@@ -10048,7 +10048,7 @@
         "intro_html": "<p>A preserved 17th–18th-century Jewish house in Bukhara, reflecting the city’s long Jewish community.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "buxoro yahudiylar qadimiy uyi xvii-xviii/бухарский еврейский старинный дом/bukhara jewish old house bukhara bukhara saved uzbekistan 2026 乌兹别克斯坦 2026",
@@ -10060,7 +10060,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-q6bliz",
+      "id": "2026-09-uzbekistan:p-q6bliz",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10069,7 +10069,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-q6bliz",
+        "id": "2026-09-uzbekistan:p-q6bliz",
         "name": "Chor Minor Monument",
         "name_zh": "恰尔米纳尔（四塔）",
         "coords": [
@@ -10097,7 +10097,7 @@
         "intro_html": "<p>A distinctive four-towered gatehouse of a former madrasa in Bukhara.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "chor minor monument 恰尔米纳尔（四塔） bukhara bukhara tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -10109,7 +10109,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1s2vb8c",
+      "id": "2026-09-uzbekistan:p-1s2vb8c",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10118,7 +10118,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1s2vb8c",
+        "id": "2026-09-uzbekistan:p-1s2vb8c",
         "name": "Kalon Minaret",
         "name_zh": "卡隆宣礼塔",
         "coords": [
@@ -10146,7 +10146,7 @@
         "intro_html": "<p>An 11th-century minaret in Bukhara, famous for its brick pattern and scale.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "kalon minaret 卡隆宣礼塔 bukhara bukhara tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -10158,7 +10158,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1ecw3d0",
+      "id": "2026-09-uzbekistan:p-1ecw3d0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10167,7 +10167,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1ecw3d0",
+        "id": "2026-09-uzbekistan:p-1ecw3d0",
         "name": "Labi Hovuz",
         "name_zh": "利亚比豪兹",
         "coords": [
@@ -10195,7 +10195,7 @@
         "intro_html": "<p>A historic plaza in Bukhara around a stone pool, framed by madrasas and a khanaka.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "labi hovuz 利亚比豪兹 bukhara bukhara tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -10207,7 +10207,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-mkovrr",
+      "id": "2026-09-uzbekistan:p-mkovrr",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10216,7 +10216,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-mkovrr",
+        "id": "2026-09-uzbekistan:p-mkovrr",
         "name": "Magoki Attori Mosque and Carpet Museum",
         "name_zh": "马戈基阿塔里清真寺与地毯博物馆",
         "coords": [
@@ -10244,7 +10244,7 @@
         "intro_html": "<p>One of Bukhara’s oldest mosque sites, now also housing a carpet museum.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "magoki attori mosque and carpet museum 马戈基阿塔里清真寺与地毯博物馆 bukhara bukhara tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -10256,7 +10256,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1qawxby",
+      "id": "2026-09-uzbekistan:p-1qawxby",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10265,7 +10265,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1qawxby",
+        "id": "2026-09-uzbekistan:p-1qawxby",
         "name": "Poyi Kalon Complex",
         "name_zh": "波伊卡隆建筑群",
         "coords": [
@@ -10293,7 +10293,7 @@
         "intro_html": "<p>The ensemble around the Kalon minaret, including the mosque and Mir-i-Arab madrasa.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "poyi kalon complex 波伊卡隆建筑群 bukhara bukhara tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -10305,7 +10305,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1oc52if",
+      "id": "2026-09-uzbekistan:p-1oc52if",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10314,7 +10314,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1oc52if",
+        "id": "2026-09-uzbekistan:p-1oc52if",
         "name": "Tim Abdulla Khan Trading Dome",
         "name_zh": "阿卜杜拉汗商队穹顶",
         "coords": [
@@ -10342,7 +10342,7 @@
         "intro_html": "<p>A domed trading arcade in Bukhara built for merchants and crafts.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "tim abdulla khan trading dome 阿卜杜拉汗商队穹顶 bukhara bukhara tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -10354,7 +10354,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-lb4yqj",
+      "id": "2026-09-uzbekistan:p-lb4yqj",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10363,7 +10363,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-lb4yqj",
+        "id": "2026-09-uzbekistan:p-lb4yqj",
         "name": "Ancient Paykend History Museum",
         "name_zh": "古佩肯德历史博物馆",
         "coords": [
@@ -10391,7 +10391,7 @@
         "intro_html": "<p>A museum and archaeological site at the ancient Silk Road city of Paykend.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "ancient paykend history museum 古佩肯德历史博物馆 bukhara bukhara tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -10403,7 +10403,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-14j1kvh",
+      "id": "2026-09-uzbekistan:p-14j1kvh",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10412,7 +10412,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-14j1kvh",
+        "id": "2026-09-uzbekistan:p-14j1kvh",
         "name": "Ark of Bukhara",
         "name_zh": "布哈拉城堡",
         "coords": [
@@ -10440,7 +10440,7 @@
         "intro_html": "<p>The fortified residence of Bukhara’s rulers, now a museum complex.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "ark of bukhara 布哈拉城堡 bukhara bukhara tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -10452,7 +10452,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-azs4yw",
+      "id": "2026-09-uzbekistan:p-azs4yw",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10461,7 +10461,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-azs4yw",
+        "id": "2026-09-uzbekistan:p-azs4yw",
         "name": "Bolo Hauz Mosque",
         "name_zh": "博洛哈乌兹清真寺",
         "coords": [
@@ -10489,7 +10489,7 @@
         "intro_html": "<p>A 20th-century mosque in Bukhara with a carved wooden porch facing a small pool.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "bolo hauz mosque 博洛哈乌兹清真寺 bukhara bukhara tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -10501,7 +10501,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-bz870t",
+      "id": "2026-09-uzbekistan:p-bz870t",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10510,7 +10510,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-bz870t",
+        "id": "2026-09-uzbekistan:p-bz870t",
         "name": "Ismail Samani Mausoleum",
         "name_zh": "伊斯梅尔萨马尼陵墓",
         "coords": [
@@ -10538,7 +10538,7 @@
         "intro_html": "<p>The 10th-century Samanid mausoleum, one of Central Asia’s earliest surviving Islamic monuments.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "ismail samani mausoleum 伊斯梅尔萨马尼陵墓 bukhara bukhara tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -10550,7 +10550,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-9ctjmn",
+      "id": "2026-09-uzbekistan:p-9ctjmn",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10559,7 +10559,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-9ctjmn",
+        "id": "2026-09-uzbekistan:p-9ctjmn",
         "name": "Sitora-i-Moh-i Khosa palace",
         "name_zh": "西托拉伊莫希霍萨夏宫",
         "coords": [
@@ -10587,7 +10587,7 @@
         "intro_html": "<p>A summer palace outside Bukhara built for the last emir, blending local and European styles.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "sitora-i-moh-i khosa palace 西托拉伊莫希霍萨夏宫 bukhara bukhara tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -10599,7 +10599,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1gmy357",
+      "id": "2026-09-uzbekistan:p-1gmy357",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10608,7 +10608,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1gmy357",
+        "id": "2026-09-uzbekistan:p-1gmy357",
         "name": "Assumption Cathedral",
         "name_zh": "圣母升天主教座堂",
         "coords": [
@@ -10636,7 +10636,7 @@
         "intro_html": "<p>The Russian Orthodox cathedral in Tashkent, built in the late 19th century.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "assumption cathedral 圣母升天主教座堂 tashkent tashkent tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -10648,7 +10648,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-1i5ibmt",
+      "id": "2026-09-uzbekistan:p-1i5ibmt",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10657,7 +10657,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-1i5ibmt",
+        "id": "2026-09-uzbekistan:p-1i5ibmt",
         "name": "Ming Urik Museum",
         "name_zh": "明乌里克博物馆",
         "coords": [
@@ -10685,7 +10685,7 @@
         "intro_html": "<p>An archaeological site and museum near Tashkent with remains of a medieval settlement.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "ming urik museum 明乌里克博物馆 tashkent tashkent tourist uzbekistan 2026 乌兹别克斯坦 2026",
@@ -10697,7 +10697,7 @@
     },
     {
       "type": "Feature",
-      "id": "uzbekistan-2026-09:p-v0ij7m",
+      "id": "2026-09-uzbekistan:p-v0ij7m",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10706,7 +10706,7 @@
         ]
       },
       "properties": {
-        "id": "uzbekistan-2026-09:p-v0ij7m",
+        "id": "2026-09-uzbekistan:p-v0ij7m",
         "name": "State Museum of History of Uzbekistan",
         "name_zh": "乌兹别克斯坦国家历史博物馆",
         "coords": [
@@ -10734,7 +10734,7 @@
         "intro_html": "<p>Uzbekistan’s main history museum in Tashkent, covering the region from prehistory to the present.</p>\n",
         "notes": "",
         "notes_html": "",
-        "trip": "uzbekistan-2026-09",
+        "trip": "2026-09-uzbekistan",
         "trip_title": "Uzbekistan 2026",
         "trip_title_zh": "乌兹别克斯坦 2026",
         "search": "state museum of history of uzbekistan 乌兹别克斯坦国家历史博物馆 tashkent tashkent tourist uzbekistan 2026 乌兹别克斯坦 2026",

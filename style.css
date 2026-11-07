@@ -843,6 +843,82 @@ a {
   margin-bottom: 8px;
 }
 
+.food-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.food-card {
+  border: 1px solid var(--line);
+  background: var(--panel-2);
+  border-radius: 10px;
+  padding: 10px 11px;
+}
+
+.food-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.food-name {
+  min-width: 0;
+}
+
+.food-name strong {
+  font-size: 13px;
+}
+
+.food-name .zh {
+  color: var(--muted);
+  font-size: 11px;
+  margin-left: 5px;
+}
+
+.food-meta-line {
+  color: var(--muted-2);
+  display: block;
+  font-size: 10px;
+  margin-top: 2px;
+}
+
+.food-rating {
+  color: var(--accent);
+  flex: none;
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.food-details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 7px;
+}
+
+.food-details span {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--muted);
+  font-size: 9px;
+  padding: 2px 7px;
+}
+
+.food-notes {
+  margin-top: 7px;
+}
+
+.food-source {
+  color: #9ccaff;
+  display: inline-block;
+  font-size: 10px;
+  margin-top: 7px;
+  text-underline-offset: 2px;
+}
+
 .day-head {
   display: flex;
   align-items: baseline;

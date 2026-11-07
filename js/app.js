@@ -11,6 +11,19 @@ import {
 
 const BASE_TITLE = 'Trip Atlas · 旅行图册';
 const VIEWS = new Set(['routes', 'timeline', 'visited']);
+const LEGACY_TRIP_IDS = new Map([['uzbekistan-2026-09', '2026-09-uzbekistan']]);
+
+function canonicalTripId(id) {
+  return id && id !== 'all' ? LEGACY_TRIP_IDS.get(id) || id : id;
+}
+
+function canonicalPlaceId(id) {
+  if (!id) return id;
+  for (const [oldId, newId] of LEGACY_TRIP_IDS) {
+    if (id.startsWith(`${oldId}:`)) return `${newId}${id.slice(oldId.length)}`;
+  }
+  return id;
+}
 
 const state = {
   atlas: null,
@@ -62,14 +75,14 @@ function readParams() {
   const params = new URLSearchParams(window.location.search);
   state.filters.year = params.get('year') || 'all';
   state.filters.country = params.get('country') || 'all';
-  state.filters.trip = params.get('trip') || 'all';
+  state.filters.trip = canonicalTripId(params.get('trip')) || 'all';
   state.filters.tag = params.get('tag') || 'all';
   state.filters.q = params.get('q') || '';
   const view = params.get('view');
   state.view = VIEWS.has(view) ? view : 'routes';
   return {
-    place: params.get('place'),
-    trip: params.get('trip'),
+    place: canonicalPlaceId(params.get('place')),
+    trip: canonicalTripId(params.get('trip')),
     region: params.get('region'),
     view: state.view,
   };
@@ -175,6 +188,16 @@ function filteredTrips() {
     for (const place of state.places) {
       if (place.trip !== trip.id) continue;
       haystack.push(place.name, place.name_zh, place.search, place.notes, place.city);
+    }
+    for (const restaurant of trip.restaurants || []) {
+      haystack.push(
+        restaurant.name,
+        restaurant.name_zh,
+        restaurant.search,
+        restaurant.notes,
+        restaurant.city,
+        restaurant.cuisine
+      );
     }
     for (const route of state.routes) {
       if (route.properties.trip !== trip.id) continue;
@@ -588,6 +611,7 @@ async function selectRegion(id, { record = true } = {}) {
 }
 
 function selectPlace(id, { record = true } = {}) {
+  id = canonicalPlaceId(id);
   const place = state.placeById.get(id);
   if (!place) return;
   if (state.view !== 'routes') {
@@ -605,6 +629,7 @@ function selectPlace(id, { record = true } = {}) {
 }
 
 function selectTrip(id, { record = true } = {}) {
+  id = canonicalTripId(id);
   const trip = state.tripById.get(id);
   if (!trip) return;
   if (state.view !== 'routes') {

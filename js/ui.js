@@ -383,6 +383,37 @@ function placeButton(place, action = 'place') {
   }</button>`;
 }
 
+function restaurantCard(restaurant) {
+  const name = `${escapeHtml(restaurant.name)}${
+    restaurant.name_zh && restaurant.name_zh !== restaurant.name
+      ? `<span class="zh">${escapeHtml(restaurant.name_zh)}</span>`
+      : ''
+  }`;
+  const meta = [restaurant.city, restaurant.date_label || 'Undated']
+    .filter(Boolean)
+    .join(' · ');
+  const price = restaurant.price_level
+    ? '$'.repeat(Math.max(1, Math.min(4, restaurant.price_level)))
+    : '';
+  const details = [restaurant.cuisine, restaurant.meal, price].filter(Boolean);
+  const rating = restaurant.rating ? `${restaurant.rating}/5` : '';
+  const notes = restaurant.notes_html || (restaurant.notes ? escapeHtml(restaurant.notes) : '');
+  return `
+    <div class="food-card">
+      <div class="food-head">
+        <div class="food-name"><strong>${name}</strong><span class="food-meta-line">${escapeHtml(meta)}</span></div>
+        ${rating ? `<span class="food-rating">${escapeHtml(rating)}</span>` : ''}
+      </div>
+      ${details.length ? `<div class="food-details">${details.map((item) => `<span>${escapeHtml(item)}</span>`).join('')}</div>` : ''}
+      ${notes ? `<div class="food-notes prose">${notes}</div>` : ''}
+      ${
+        restaurant.source_url
+          ? `<a class="food-source" href="${escapeHtml(restaurant.source_url)}" target="_blank" rel="nofollow noopener noreferrer">Source</a>`
+          : ''
+      }
+    </div>`;
+}
+
 function tripContext(trip) {
   if (!trip) return '';
   return `
@@ -524,6 +555,13 @@ function renderTripDetail(trip) {
         ? `<details class="pool-section"><summary>${(trip.pool || []).length} place${
             (trip.pool || []).length === 1 ? '' : 's'
           } not yet assigned to a day</summary>${pool}</details>`
+        : ''
+    }
+    ${
+      (trip.restaurants || []).length
+        ? `<div class="section"><h3>Food <span class="zh">餐厅</span></h3><div class="food-list">${trip.restaurants
+            .map((restaurant) => restaurantCard(restaurant))
+            .join('')}</div></div>`
         : ''
     }
     ${
