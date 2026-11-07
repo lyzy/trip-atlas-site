@@ -646,6 +646,17 @@ function selectTrip(id, { record = true } = {}) {
   applyFilters({ history: record ? 'push' : 'replace' });
 }
 
+function showRestaurantCity(card) {
+  const lng = Number(card.dataset.cityLng);
+  const lat = Number(card.dataset.cityLat);
+  if (!Number.isFinite(lng) || !Number.isFinite(lat)) return;
+  if (state.view !== 'routes') {
+    setView('routes', { fit: false, clear: false, history: 'replace' });
+  }
+  state.map?.setSelected(null);
+  state.map?.flyToCity([lng, lat]);
+}
+
 function bindEvents() {
   let searchTimer = null;
   const commitSearch = () => {
@@ -742,6 +753,11 @@ function bindEvents() {
   });
 
   els.detailContent.addEventListener('click', (event) => {
+    const restaurantCard = event.target.closest('[data-city-lng]');
+    if (restaurantCard && !event.target.closest('a')) {
+      showRestaurantCity(restaurantCard);
+      return;
+    }
     const tripTab = event.target.closest('[data-trip-tab]');
     if (tripTab) {
       const selected = tripTab.dataset.tripTab;
@@ -773,6 +789,15 @@ function bindEvents() {
     }
     const tripButton = event.target.closest('[data-trip-id]');
     if (tripButton) selectTrip(tripButton.dataset.tripId);
+  });
+
+  els.detailContent.addEventListener('keydown', (event) => {
+    if (event.key !== 'Enter' && event.key !== ' ') return;
+    if (event.target.closest('a')) return;
+    const restaurantCard = event.target.closest('[data-city-lng]');
+    if (!restaurantCard) return;
+    event.preventDefault();
+    showRestaurantCity(restaurantCard);
   });
 
   els.detailClose.addEventListener('click', closeDetail);

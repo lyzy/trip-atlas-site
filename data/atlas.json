@@ -3036,6 +3036,10 @@
             69.2525,
             41.3168
           ],
+          "city_coords": [
+            69.2401,
+            41.2995
+          ],
           "location_precision": "exact",
           "date": "2026-10-01",
           "date_precision": "day",
@@ -3060,6 +3064,10 @@
           "coords": [
             69.2644,
             41.2919
+          ],
+          "city_coords": [
+            69.2401,
+            41.2995
           ],
           "location_precision": "exact",
           "date": "2026-09-30",
@@ -3086,6 +3094,10 @@
             69.2618,
             41.2926
           ],
+          "city_coords": [
+            69.2401,
+            41.2995
+          ],
           "location_precision": "exact",
           "date": "2026-09-30",
           "date_precision": "day",
@@ -3110,6 +3122,10 @@
           "coords": [
             64.4149,
             39.7765
+          ],
+          "city_coords": [
+            64.423,
+            39.768
           ],
           "location_precision": "exact",
           "date": "2026-09-29",
@@ -3136,6 +3152,10 @@
             64.4257,
             39.7729
           ],
+          "city_coords": [
+            64.423,
+            39.768
+          ],
           "location_precision": "exact",
           "date": "2026-09-29",
           "date_precision": "day",
@@ -3160,6 +3180,10 @@
           "coords": [
             64.4291,
             39.773
+          ],
+          "city_coords": [
+            64.423,
+            39.768
           ],
           "location_precision": "exact",
           "date": "2026-09-28",
@@ -3186,6 +3210,10 @@
             64.4214,
             39.7718
           ],
+          "city_coords": [
+            64.423,
+            39.768
+          ],
           "location_precision": "exact",
           "date": "2026-09-28",
           "date_precision": "day",
@@ -3210,6 +3238,10 @@
           "coords": [
             66.9553,
             39.6479
+          ],
+          "city_coords": [
+            66.9597,
+            39.627
           ],
           "location_precision": "exact",
           "date": "2026-09-27",
@@ -3236,6 +3268,10 @@
             66.95,
             39.6511
           ],
+          "city_coords": [
+            66.9597,
+            39.627
+          ],
           "location_precision": "exact",
           "date": "2026-09-26",
           "date_precision": "day",
@@ -3260,6 +3296,10 @@
           "coords": [
             66.9792,
             39.6502
+          ],
+          "city_coords": [
+            66.9597,
+            39.627
           ],
           "location_precision": "exact",
           "date": "2026-09-25",
@@ -3286,6 +3326,10 @@
             66.9552,
             39.6444
           ],
+          "city_coords": [
+            66.9597,
+            39.627
+          ],
           "location_precision": "exact",
           "date": "2026-09-25",
           "date_precision": "day",
@@ -3310,6 +3354,10 @@
           "coords": [
             69.2096,
             41.3165
+          ],
+          "city_coords": [
+            69.2401,
+            41.2995
           ],
           "location_precision": "exact",
           "date": "2026-09-24",
@@ -3336,6 +3384,10 @@
             69.2403,
             41.3325
           ],
+          "city_coords": [
+            69.2401,
+            41.2995
+          ],
           "location_precision": "exact",
           "date": "2026-09-24",
           "date_precision": "day",
@@ -3361,6 +3413,10 @@
             71.7864,
             40.3864
           ],
+          "city_coords": [
+            71.7864,
+            40.3842
+          ],
           "location_precision": "city",
           "date": "2026-09-21",
           "date_precision": "day",
@@ -3385,6 +3441,10 @@
           "coords": [
             70.9245,
             40.5376
+          ],
+          "city_coords": [
+            70.9425,
+            40.5286
           ],
           "location_precision": "exact",
           "date": "2026-09-20",

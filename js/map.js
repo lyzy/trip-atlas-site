@@ -552,6 +552,11 @@ export function createMap(container, handlers) {
     map.flyTo({ center: place.coords, zoom, duration: 750, essential: true });
   }
 
+  function flyToCity(coords) {
+    if (!coords) return;
+    map.flyTo({ center: coords, zoom: 11, duration: 750, essential: true });
+  }
+
   function fitBounds(bounds, options = {}) {
     if (!bounds) return;
     const [[minLng, minLat], [maxLng, maxLat]] = bounds;
@@ -578,6 +583,7 @@ export function createMap(container, handlers) {
     setView,
     setSelected,
     flyToPlace,
+    flyToCity,
     fitBounds,
     resize,
     isReady: () => ready,

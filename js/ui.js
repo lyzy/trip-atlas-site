@@ -398,8 +398,12 @@ function restaurantCard(restaurant) {
   const details = [restaurant.cuisine, restaurant.meal, price].filter(Boolean);
   const rating = restaurant.rating ? `${restaurant.rating}/3` : '';
   const notes = restaurant.notes_html || (restaurant.notes ? escapeHtml(restaurant.notes) : '');
+  const cityCoords = restaurant.city_coords;
+  const cityAttrs = cityCoords
+    ? ` tabindex="0" title="Show ${escapeHtml(restaurant.city || 'city')} on the map" data-city-lng="${escapeHtml(cityCoords[0])}" data-city-lat="${escapeHtml(cityCoords[1])}"`
+    : '';
   return `
-    <div class="food-card">
+    <div class="food-card food-card-link"${cityAttrs}>
       <div class="food-head">
         <div class="food-name"><strong>${name}</strong><span class="food-meta-line">${escapeHtml(meta)}</span></div>
         ${rating ? `<span class="food-rating">${escapeHtml(rating)}</span>` : ''}

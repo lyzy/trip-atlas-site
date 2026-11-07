@@ -938,6 +938,17 @@ a {
   padding: 10px 11px;
 }
 
+.food-card-link {
+  cursor: pointer;
+}
+
+.food-card-link:hover,
+.food-card-link:focus {
+  border-color: rgba(74, 163, 255, 0.55);
+  box-shadow: 0 0 0 2px var(--accent-soft);
+  outline: none;
+}
+
 .food-head {
   display: flex;
   align-items: baseline;
