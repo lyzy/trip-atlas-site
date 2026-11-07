@@ -396,7 +396,11 @@ function restaurantCard(restaurant) {
     ? '$'.repeat(Math.max(1, Math.min(5, restaurant.price_level)))
     : '';
   const details = [restaurant.cuisine, restaurant.meal, price].filter(Boolean);
-  const rating = restaurant.rating ? `${restaurant.rating}/3` : '';
+  const ratingValue = restaurant.rating ? Math.max(1, Math.min(3, restaurant.rating)) : 0;
+  const rating = ratingValue
+    ? `${'★'.repeat(ratingValue)}${'☆'.repeat(3 - ratingValue)}`
+    : '';
+  const ratingLabel = ratingValue ? `Rating ${ratingValue} of 3` : '';
   const notes = restaurant.notes_html || (restaurant.notes ? escapeHtml(restaurant.notes) : '');
   const cityCoords = restaurant.city_coords;
   const cityAttrs = cityCoords
@@ -406,7 +410,7 @@ function restaurantCard(restaurant) {
     <div class="food-card food-card-link"${cityAttrs}>
       <div class="food-head">
         <div class="food-name"><strong>${name}</strong><span class="food-meta-line">${escapeHtml(meta)}</span></div>
-        ${rating ? `<span class="food-rating">${escapeHtml(rating)}</span>` : ''}
+        ${rating ? `<span class="food-rating" aria-label="${escapeHtml(ratingLabel)}" title="${escapeHtml(ratingLabel)}">${escapeHtml(rating)}</span>` : ''}
       </div>
       ${details.length ? `<div class="food-details">${details.map((item) => `<span>${escapeHtml(item)}</span>`).join('')}</div>` : ''}
       ${notes ? `<div class="food-notes prose">${notes}</div>` : ''}
@@ -586,11 +590,11 @@ function renderTripDetail(trip) {
               <details class="food-legend">
                 <summary>Rating &amp; price guide</summary>
                 <div class="food-legend-body">
-                  <p><strong>Rating 1–3</strong></p>
+                  <p><strong>Rating ★☆☆–★★★</strong></p>
                   <ul>
-                    <li><strong>1</strong> — above average or a local specialty, but not worth a return trip</li>
-                    <li><strong>2</strong> — special enough to try on a first visit</li>
-                    <li><strong>3</strong> — worth returning for, or memorable fine dining</li>
+                    <li><strong>★☆☆</strong> — above average or a local specialty, but not worth a return trip</li>
+                    <li><strong>★★☆</strong> — special enough to try on a first visit</li>
+                    <li><strong>★★★</strong> — worth returning for, or memorable fine dining</li>
                   </ul>
                   <p><strong>Price 1–5</strong></p>
                   <ul>
