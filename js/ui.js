@@ -397,9 +397,7 @@ function restaurantCard(restaurant) {
     : '';
   const details = [restaurant.cuisine, restaurant.meal, price].filter(Boolean);
   const ratingValue = restaurant.rating ? Math.max(1, Math.min(3, restaurant.rating)) : 0;
-  const rating = ratingValue
-    ? `${'★'.repeat(ratingValue)}${'☆'.repeat(3 - ratingValue)}`
-    : '';
+  const rating = ratingValue ? '★'.repeat(ratingValue) : '';
   const ratingLabel = ratingValue ? `Rating ${ratingValue} of 3` : '';
   const notes = restaurant.notes_html || (restaurant.notes ? escapeHtml(restaurant.notes) : '');
   const cityCoords = restaurant.city_coords;
@@ -590,10 +588,10 @@ function renderTripDetail(trip) {
               <details class="food-legend">
                 <summary>Rating &amp; price guide</summary>
                 <div class="food-legend-body">
-                  <p><strong>Rating ★☆☆–★★★</strong></p>
+                  <p><strong>Rating 1–3 stars</strong></p>
                   <ul>
-                    <li><strong>★☆☆</strong> — above average or a local specialty, but not worth a return trip</li>
-                    <li><strong>★★☆</strong> — special enough to try on a first visit</li>
+                    <li><strong>★</strong> — above average or a local specialty, but not worth a return trip</li>
+                    <li><strong>★★</strong> — special enough to try on a first visit</li>
                     <li><strong>★★★</strong> — worth returning for, or memorable fine dining</li>
                   </ul>
                   <p><strong>Price 1–5</strong></p>
