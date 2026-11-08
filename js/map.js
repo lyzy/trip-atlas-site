@@ -127,7 +127,7 @@ export function createMap(container, handlers) {
       map.setLayoutProperty(id, 'text-field', [
         'case',
         taiwan,
-        'Taiwan, China',
+        '',
         original,
       ]);
     }
