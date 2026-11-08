@@ -113,6 +113,26 @@ export function createMap(container, handlers) {
     });
   }
 
+  function applyCountryLabelOverrides() {
+    const taiwan = [
+      'any',
+      ['==', ['get', 'name_en'], 'Taiwan'],
+      ['==', ['get', 'name'], 'Taiwan'],
+      ['==', ['get', 'name:latin'], 'Taiwan'],
+    ];
+    for (const id of ['label_country_1', 'label_country_2', 'label_country_3']) {
+      if (!map.getLayer(id)) continue;
+      const original = map.getLayoutProperty(id, 'text-field');
+      if (!original) continue;
+      map.setLayoutProperty(id, 'text-field', [
+        'case',
+        taiwan,
+        'Taiwan, China',
+        original,
+      ]);
+    }
+  }
+
   function addLayers() {
     map.addSource('places', {
       type: 'geojson',
@@ -509,6 +529,7 @@ export function createMap(container, handlers) {
   map.on('load', () => {
     ready = true;
     addLayers();
+    applyCountryLabelOverrides();
     setTimeout(() => map.resize(), 50);
   });
 
